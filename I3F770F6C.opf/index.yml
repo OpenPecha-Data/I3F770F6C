@@ -1,0 +1,103 @@
+id: a0328ccd501f47e8be4dcf916a7c88e8
+annotation_type: index
+revision: '00001'
+annotations:
+  881e89af2aef46d09f7ed772cdef3ad4:
+    base: 7DB7.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 14
+    - title: Preface
+      span:
+        start: 15
+        end: 28
+    - title: Section 1
+      span:
+        start: 29
+        end: 495
+    - title: Section 2
+      span:
+        start: 496
+        end: 1521
+    - title: Section 3
+      span:
+        start: 1522
+        end: 4240
+    - title: Section 4
+      span:
+        start: 4241
+        end: 5709
+    - title: Section 5
+      span:
+        start: 5710
+        end: 6850
+    - title: Section 6
+      span:
+        start: 6851
+        end: 7401
+    - title: Section 7
+      span:
+        start: 7402
+        end: 9740
+    - title: Section 8
+      span:
+        start: 9741
+        end: 10680
+    - title: Section 9
+      span:
+        start: 10681
+        end: 10997
+    - title: Section 10
+      span:
+        start: 10998
+        end: 11701
+    - title: Section 11
+      span:
+        start: 11702
+        end: 11802
+    - title: Section 12
+      span:
+        start: 11803
+        end: 12139
+    - title: Section 13
+      span:
+        start: 12140
+        end: 12814
+    - title: Section 14
+      span:
+        start: 12815
+        end: 12943
+    - title: Section 15
+      span:
+        start: 12944
+        end: 13423
+    - title: Section 16
+      span:
+        start: 13424
+        end: 13764
+    - title: Section 17
+      span:
+        start: 13765
+        end: 14541
+    - title: Section 18
+      span:
+        start: 14542
+        end: 14942
+    - title: Section 19
+      span:
+        start: 14943
+        end: 15052
+    - title: Section 20
+      span:
+        start: 15053
+        end: 15508
+    - title: Section 21
+      span:
+        start: 15509
+        end: 15640
+    - title: Colophon
+      span:
+        start: 15641
+        end: 15648
